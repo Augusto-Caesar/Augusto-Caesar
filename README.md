@@ -6,14 +6,14 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UNINTER (conclusão em 2028), com foco atual em **desenvolvimento Java e Back-end**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UNINTER (conclusão em 2028), com foco atual em **desenvolvimento Golang e Back-end**.
 
 Minha trajetória não foi linear — passei por edição de vídeo, atendimento ao cliente e trabalho autônomo antes de mergulhar de cabeça na programação. Cada experiência me ensinou algo que levo pro código.
 
 Hoje estou construindo uma base sólida em desenvolvimento de software, com olho no mercado e vontade de crescer rápido.
 
 - 🎓 Cursando ADS — UNINTER
-- ☕ Me especializando em **Java**
+- ☕ Me especializando em **GO**
 - 🌎 Inglês avançado **C2 88/100 by EFSET**
 - 📍 Brasil - Remoto
 
@@ -26,6 +26,7 @@ Hoje estou construindo uma base sólida em desenvolvimento de software, com olho
 **Linguagens**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,6 +35,8 @@ Hoje estou construindo uma base sólida em desenvolvimento de software, com olho
 **Back-end & Banco de Dados**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Ferramentas**
