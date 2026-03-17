@@ -6,14 +6,14 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UNINTER (conclusão em 2028), com foco atual em **desenvolvimento Angular e Nest.js**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UNINTER (conclusão em 2028), com foco atual em **desenvolvimento C# e ASP.NET Core**.
 
 Minha trajetória não foi linear — passei por edição de vídeo, atendimento ao cliente e trabalho autônomo antes de mergulhar de cabeça na programação. Cada experiência me ensinou algo que levo pro código.
 
 Hoje estou construindo uma base sólida em desenvolvimento de software, com olho no mercado e vontade de crescer rápido.
 
 - 🎓 Cursando ADS — UNINTER
-- ☕ Me especializando em **Angular e Nest.js**
+- ☕ Me especializando em **ASP.NET-Core e C#**
 - 🌎 Inglês avançado **C2 88/100 by EFSET**
 - 📍 Brasil - Remoto
 
@@ -25,9 +25,9 @@ Hoje estou construindo uma base sólida em desenvolvimento de software, com olho
 
 **Linguagens**
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white)
+![ASP.NET-Core](https://img.shields.io/badge/-ASP.NET--Core-999?style=for-the-badge&&logo=.NET&logoColor=512BD4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Nest.js](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
