@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Olá!%2C+eu+sou+o+Augusto+Cesar+%F0%9F%91%8B;Desenvolvedor+Backend;Apaixonado+por+C#+%26+Back-end" alt="Typing SVG" />
-</div>
-
----
-
 ## 👨‍💻 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** pela UNINTER (conclusão em 2028), com foco atual em **desenvolvimento C# e ASP.NET Core**.
